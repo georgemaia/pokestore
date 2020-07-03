@@ -40,7 +40,7 @@ Na próxima semana, nosso conteúdo técnico será uma live onde o professor far
 
 Esperamos que vocês tenham gostado do desafio e que estejam ansiose para evoluir seus Pokémon, nesse projeto divertido.👊💚
 
-* Link Github: 
+* Link Github: https://github.com/georgemaia/pokestore
 * Link da página:
 
 # Referências
