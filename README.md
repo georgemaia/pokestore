@@ -42,3 +42,13 @@ Esperamos que vocês tenham gostado do desafio e que estejam ansiose para evolui
 
 * Link Github: 
 * Link da página:
+
+# Referências
+
+[https://github.com/AndrePostiga/pokestore-react](https://github.com/AndrePostiga/pokestore-react)
+
+[https://github.com/lucasharca/pokestoreBeta](https://github.com/lucasharca/pokestoreBeta)
+
+[https://github.com/MilaChung/gama-pokestore](https://github.com/MilaChung/gama-pokestore)
+
+[https://github.com/LeoPersan/pokestore](https://github.com/LeoPersan/pokestore)
