@@ -43,6 +43,8 @@ Esperamos que vocês tenham gostado do desafio e que estejam ansiose para evolui
 * Link Github: https://github.com/georgemaia/pokestore
 * Link da página: https://pokestore-georgemaia.netlify.app/
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24c87b6d-ec56-4884-9754-b0d75e061e1c/deploy-status)](https://app.netlify.com/sites/pokestore-georgemaia/deploys)
+
 ## Instalação
 
 Criação do aplicativo react
