@@ -43,7 +43,40 @@ Esperamos que vocês tenham gostado do desafio e que estejam ansiose para evolui
 * Link Github: https://github.com/georgemaia/pokestore
 * Link da página:
 
+## Instalação
+
+Criação do aplicativo react
+```bash
+npx create-react-app
+```
+
+Instalação do Axios
+```bash
+npm i axios
+```
+
+Iniciar o servidor
+```bash
+npm start
+```
+
+## Configuração
+
+Apagar os seguintes arquivos da pasta *src*:
+- App.test.js
+- index.css
+- logo.svg
+- serviceWorker.js
+- setupTests.js
+
+Remover importação do arquivo index.js:
+- index.css
+- serviceWorker
+- Remover o registro do serviceWorker;
+
 # Referências
+
+[React App - Breaking Bad API](https://www.youtube.com/watch?v=YaioUnMw0mo)
 
 [https://github.com/AndrePostiga/pokestore-react](https://github.com/AndrePostiga/pokestore-react)
 
