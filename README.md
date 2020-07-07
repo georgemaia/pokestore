@@ -83,6 +83,8 @@ Limpar arquivo App.css
 
 [React App - Breaking Bad API](https://www.youtube.com/watch?v=YaioUnMw0mo)
 
+[Build a React JS App with the Pokemon API](https://youtu.be/HaEB0vdxpdg)
+
 [https://github.com/AndrePostiga/pokestore-react](https://github.com/AndrePostiga/pokestore-react)
 
 [https://github.com/lucasharca/pokestoreBeta](https://github.com/lucasharca/pokestoreBeta)
