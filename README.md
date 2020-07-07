@@ -74,6 +74,9 @@ Remover importação do arquivo index.js:
 - serviceWorker
 - Remover o registro do serviceWorker;
 
+Remover importação do arquivo App.js:
+- logo.svg
+
 # Referências
 
 [React App - Breaking Bad API](https://www.youtube.com/watch?v=YaioUnMw0mo)
