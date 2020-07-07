@@ -77,6 +77,8 @@ Remover importação do arquivo index.js:
 Remover importação do arquivo App.js:
 - logo.svg
 
+Limpar arquivo App.css
+
 # Referências
 
 [React App - Breaking Bad API](https://www.youtube.com/watch?v=YaioUnMw0mo)
