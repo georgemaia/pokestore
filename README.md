@@ -93,4 +93,6 @@ Limpar arquivo App.css
 
 [https://github.com/MilaChung/gama-pokestore](https://github.com/MilaChung/gama-pokestore)
 
+[https://github.com/PatriciaClares/pokestore](https://github.com/PatriciaClares/pokestore)
+
 [https://github.com/LeoPersan/pokestore](https://github.com/LeoPersan/pokestore)
