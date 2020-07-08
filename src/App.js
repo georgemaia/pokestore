@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { getAllPokemon, getPokemon } from './services/pokemon';
+import Card from './components/Card';
 import Header from './components/ui/Header';
 import './App.css';
 
@@ -36,8 +37,15 @@ const App = () => {
     <div className="container">
       <Header />
       { loading ? <h1>Loading...</h1> : (
-        <h1>Data is fetched</h1>
-      )}
+        <>
+          <div className="grid-container">
+            {pokemonData.map((pokemon, i) => {
+              return <Card key={i} pokemon={pokemon}/>
+            })}
+          </div>
+        </>
+      )
+      }
     </div>
   );
 }
